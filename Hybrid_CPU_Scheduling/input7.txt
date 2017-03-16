@@ -1,0 +1,12 @@
+# First Line gives TOTAL Number of Processes, PriorityUsed (1 = used)		Other Lines are - ArivalTime BurstTime Priority
+10 1
+0 100 3
+2 100 4
+3 100 8
+3 100 1
+0 1000 2
+67 100 9
+89 100 10
+117 100 13
+688 100 16
+332 1000 8
